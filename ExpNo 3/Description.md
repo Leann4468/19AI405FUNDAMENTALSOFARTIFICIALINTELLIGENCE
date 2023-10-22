@@ -4,7 +4,7 @@
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
-// A* Search Algorithm
+
 1.  Initialize the open list
 
 2.  Initialize the closed list
@@ -24,8 +24,7 @@
         i) if successor is the goal, stop search
         
         ii) else, compute both g and h for successor
-          successor.g = q.g + distance between 
-                              successor and q
+          successor.g = q.g + distance between successor and q
           successor.h = distance from goal to 
           successor (This can be done using many 
           ways, we will discuss three heuristics- 
@@ -128,7 +127,9 @@ def get_neighbors(v):
         return None
 def heuristic(n):
     return H_dist[n]
+```
 
+```python
 
 #Describe your graph here
 '''Graph_nodes = {
