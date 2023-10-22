@@ -66,7 +66,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 <li>Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.</li>
 
 </ol>
-<h3>Algorithm:</h3>
+<h3>Program:</h3>
 
 ```python
 from collections import deque
