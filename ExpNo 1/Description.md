@@ -97,23 +97,7 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
-
-<hr>
-
-<hr>
-<h3>Sample Input</h3>
-<hr>
-5 5 <BR>
-0 1 <BR>
-0 2 <BR>
-0 3 <BR>
-2 3 <BR>
-2 4 <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
-['0', '1', '2', '3', '4']
+![1 A](https://github.com/Leann4468/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121165979/b28d6c1b-8d52-45e5-af0a-917b20084202)
 
 <hr>
 <h3>Result:</h3>
