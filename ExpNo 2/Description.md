@@ -117,26 +117,7 @@ print(traversedpath)
 ```
 <hr>
 <h4>Sample Input</h4>
-<hr>
-7 9 <BR>
-A B <BR>
-A C <BR>
-A F <BR>
-C E <BR>
-C F <BR>
-C D <BR>
-D E <BR>
-D G <BR>
-G F <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
-['A', 'B', 'C', 'F', 'E', 'D', 'G']
 
-<hr>
-
-<hr>
-<h5>Sample Input</h5>
 <hr>
 5 6 <BR>
 0 1 <BR>
@@ -148,8 +129,9 @@ G F <BR>
 <hr>
 <h5>Sample Output</h5>
 <hr>
-['0', '1', '2', '3', '4']
-<hr>
+
+![2 A](https://github.com/Leann4468/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121165979/aaa5ff04-5adf-4357-a43b-1f418425c59c)
+
 <h6>Result:</h6>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
