@@ -97,7 +97,8 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-![1 A](https://github.com/Leann4468/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121165979/b28d6c1b-8d52-45e5-af0a-917b20084202)
+
+![1 A](https://github.com/Leann4468/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/121165979/3c431e36-8e5b-43b9-ad06-258dfdaf5290)
 
 <hr>
 <h3>Result:</h3>
